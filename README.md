@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RodrigoAragon
-- 🌱 I’m currently learning Python
 - 📫 How to reach me Email: rodrixgo18@gmail.com
 
 <!---
